@@ -14,8 +14,7 @@
     align-items: center;
 }
 .box{
-    border: 2px rgb(0, 0, 0) solid;
-    background-color: black;
+    
     color: white;
     border-radius: 25px;
     height: 500px;
